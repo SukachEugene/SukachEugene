@@ -9,6 +9,7 @@ I bring over 2 years of hands-on experience in WordPress development, including 
 
 Continuously evolving as an IT professional, my current focus includes PHP with Laravel and also Vue.js.
 
+
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-sukach-a14055141/) 
@@ -19,6 +20,11 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
 
 ### My short tech identity:
 
+<div align="center">
+
+                      “brick by brick” 
+                      ― Arctic Monkeys 
+</div>
 <div align="left">
     <table>
         <tr>
