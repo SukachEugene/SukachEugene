@@ -19,9 +19,9 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
 <div id="image-table" align="left">
     <table>
         <tr>
-            <td style="padding:10px">
+            <td>
                 <div>
-                  <div style="padding:10px">
+                  <div>
                     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
                     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
                     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
@@ -53,7 +53,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
                   </div>
               </div>
             </td>
-            <td style="padding:10px">
+            <td>
                <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
             </td>
         </tr>
