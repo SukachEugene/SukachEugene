@@ -20,7 +20,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
 
 ### My short tech identity:
 
-<div align="center">
+<div align="right">
 
                       “brick by brick” 
                       ― Arctic Monkeys 
