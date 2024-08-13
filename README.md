@@ -1,4 +1,4 @@
-## Thank you for your interest! 👀
+## Thanks for your interest! 👀
 
 I'm <b>Eugene Sukach</b> and I'm web devoper.
 
@@ -54,7 +54,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
               </div>
             </td>
             <td style="padding:10px">
-               <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut-vertical"/>
+               <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
             </td>
         </tr>
     </table>
