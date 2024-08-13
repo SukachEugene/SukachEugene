@@ -1,3 +1,6 @@
+ <img width="3000" height="150" alt="Top langs" src="https://media1.tenor.com/m/8nvbPESoKoIAAAAC/wave-life.gif"/>
+ 
+
 ## Thanks for your interest! 👀
 
 My name is <b>Eugene Sukach</b> and I'm web devoper.
