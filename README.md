@@ -1,6 +1,6 @@
 ## Thanks for your interest! 👀
 
-I'm <b>Eugene Sukach</b> and I'm web devoper.
+My name is <b>Eugene Sukach</b> and I'm web devoper.
 
 I bring over 2 years of hands-on experience in WordPress development, including proficiency in HTML, CSS, JS+jQuery. Additionally, I have a background in people and project management, spanning over 6 years.
 
@@ -16,7 +16,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
 
 ### My short tech identity:
 
-<div id="image-table" align="left">
+<div align="left">
     <table>
         <tr>
             <td>
@@ -53,7 +53,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
                   </div>
               </div>
             </td>
-            <td>
+            <td style="background-color:red">
                <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
             </td>
         </tr>
