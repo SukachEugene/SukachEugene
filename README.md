@@ -54,7 +54,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
               </div>
             </td>
             <td style="padding:10px">
-               <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
+               <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut-vertical"/>
             </td>
         </tr>
     </table>
@@ -63,6 +63,6 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
 <br/>
 <hr>
 
-### Profile views counter 📈
+### Views counter 📈
 [![UJ profile views](https://u8views.com/api/v1/github/profiles/126882209/views/day-week-month-total-count.svg)](https://u8views.com/github/SukachEugene)
 
