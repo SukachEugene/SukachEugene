@@ -13,7 +13,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-sukach-a14055141/) 
-[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sukach.eugene@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sukach.eugene@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Curriculum_Vitae-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://docs.google.com/document/d/1QFDK2JBZga2PCbqkwBWY_V3d00pK4yG9ZYnlygQiCik/edit) 
 
 <br/>
