@@ -97,7 +97,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
               </div>
             </td>
             <td style="background-color:red">
-               <img width="500" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
+               <img width="400" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
             </td>
         </tr>
     </table>
