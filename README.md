@@ -22,8 +22,8 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
 
 <div align="right">
 
-             “brick by brick”                  
-             ― Arctic Monkeys                  
+                       “brick by brick”                  
+                       ― Arctic Monkeys                  
 </div>
 <div align="left">
     <table>
@@ -97,7 +97,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
               </div>
             </td>
             <td style="background-color:red">
-               <img width="450" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
+               <img width="460" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
             </td>
         </tr>
     </table>
