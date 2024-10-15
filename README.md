@@ -73,7 +73,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
                   <div>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
-                    <code><img width="32" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/composer.png" alt="Composer" title="Composer"/></code>
+                    <code> <img width="25" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/composer.png" alt="Composer" title="Composer"/> </code>
                 	   <code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
                     <code><img width="40"></code>
@@ -82,6 +82,8 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
                     <code><img width="40" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/confluence.png" alt="Confluence" title="Confluence"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+                    <code><img width="40"></code>
+                    <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
