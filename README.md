@@ -85,8 +85,6 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
                     <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
-                    <code><img width="40"></code>
-                    <code><img width="40"></code>
                   </div>
                  <div>
                    <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
@@ -99,7 +97,7 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
               </div>
             </td>
             <td style="background-color:red">
-               <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
+               <img width="500" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
             </td>
         </tr>
     </table>
