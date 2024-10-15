@@ -22,8 +22,8 @@ Continuously evolving as an IT professional, my current focus includes PHP with 
 
 <div align="right">
 
-                   “brick by brick”                  
-                   ― Arctic Monkeys                  
+             “brick by brick”                  
+             ― Arctic Monkeys                  
 </div>
 <div align="left">
     <table>
