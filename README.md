@@ -35,11 +35,14 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
+                    <code><img width="40"></code>
+                    <code><img width="40"></code>
                   </div>
                   <div>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
                     <code><img width="40" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/woocommerce.png" alt="Woocommerce" title="Woocommerce"/></code>
+                    <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
@@ -60,6 +63,8 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
                     <code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/268487504-e5fe87f3-f2ee-419d-8299-14dc573f3603.png" alt="Bulma" title="Bulma"/></code>
                     <code><img width="40"></code>
+                    <code><img width="40"></code>
+                    <code><img width="40"></code>
                   </div>
                   <div>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
@@ -68,19 +73,25 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
+                    <code><img width="40"></code>
+                    <code><img width="40"></code>
                   </div>
                   <div>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
-                    <code> <img width="27" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/composer.png" alt="Composer" title="Composer"/> </code>
+                    <code><img width="27" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/composer.png" alt="Composer" title="Composer"/> </code>
                 	   <code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
+                    <code><img width="40"></code>
+                    <code><img width="40"></code>
                     <code><img width="40"></code>
                   </div>
                   <div> 
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
                     <code><img width="40" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/confluence.png" alt="Confluence" title="Confluence"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+                    <code><img width="40"></code>
+                    <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
@@ -92,11 +103,13 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                    <code><img width="40"></code>
                    <code><img width="40"></code>
                    <code><img width="40"></code>
+                   <code><img width="40"></code>
+                   <code><img width="40"></code>
                  </div>
               </div>
             </td>
             <td style="background-color:red">
-               <img width="475" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
+               <img width="300" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
             </td>
         </tr>
     </table>
