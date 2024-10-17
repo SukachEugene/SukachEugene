@@ -76,7 +76,7 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                   <div>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
-                    <code><img width="32" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/composer.png" alt="Composer" title="Composer"/> </code>
+                    <code><img width="34" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/composer.png" alt="Composer" title="Composer"/> </code>
                 	   <code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
                     <code><img width="40"></code>
@@ -103,7 +103,7 @@ Feel free to check out my work or reach out if you'd like to collaborate!
               </div>
             </td>
             <td style="background-color:red">
-               <img width="400" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
+               <img width="410" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukachEugene&layout=donut"/>
             </td>
         </tr>
     </table>
