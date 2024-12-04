@@ -32,7 +32,7 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
                 	   <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/></code>
-                    <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
+                    <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
@@ -79,7 +79,7 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                     <code><img width="34" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/composer.png" alt="Composer" title="Composer"/> </code>
                 	   <code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
-                    <code><img width="40"></code>
+                    <code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
                     <code><img width="40"></code>
                   </div>
                   <div> 
