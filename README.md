@@ -39,7 +39,7 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                   </div>
                   <div>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
-                    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel"/></code>
+                    <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
                     <code><img width="40" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/woocommerce.png" alt="Woocommerce" title="Woocommerce"/></code>
                     <code><img width="40"></code>
@@ -69,7 +69,7 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                 	   <code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
                     <code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
-                    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png" alt="Strapi" title="Strapi"/></code>
+                    <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png" alt="Strapi" title="Strapi"/></code>
                     <code><img width="40"></code>
                     <code><img width="40"></code>
                   </div>
