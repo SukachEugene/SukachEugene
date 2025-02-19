@@ -20,8 +20,8 @@ Feel free to check out my work or reach out if you'd like to collaborate!
 
 <div align="right">
 
-                                                                                                 “brick by brick”        
-                                                                                                 ― Arctic Monkeys        
+                                                                                                    “brick by brick”        
+                                                                                                    ― Arctic Monkeys        
 </div>
 <div align="left">
     <table>
