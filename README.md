@@ -88,8 +88,8 @@ Feel free to check out my work or reach out if you'd like to collaborate!
                     <code><img width="34" src="https://github.com/SukachEugene/SukachEugene/blob/main/icons/composer.png" alt="Composer" title="Composer"/> </code>
                 	   <code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
+                    <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gulp.png" alt="Gulp" title="Gulp"/></code>
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-                    <code><img width="40"></code>
                   </div>
                   <div> 
                     <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
