@@ -3,7 +3,7 @@
 
 ## Thanks for your interest! 👀
 
-My name is <b>Eugene</b> and I'm Web devoper with over 2 years of experience in creating websites and web applications. I work across both Front-end and Back-end, mainly focusing on PHP, WordPress, Vue.js, and Laravel. When I'm not coding awesome projects, I enjoy learning new technologies and finding ways to improve my craft.
+My name is <b>Eugene</b> and I'm Web devoper with over 3 years of experience in creating websites and web applications. I work across both Front-end and Back-end, mainly focusing on PHP, WordPress, Vue.js, and Laravel. When I'm not coding awesome projects, I enjoy learning new technologies and finding ways to improve my craft.
 
 Feel free to check out my work or reach out if you'd like to collaborate!
 
